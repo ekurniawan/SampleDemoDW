@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "HappyScoopers", "HappyScoopers\HappyScoopers.dtproj", "{F23629F4-906D-D558-32E3-E25B9B0C3C30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F23629F4-906D-D558-32E3-E25B9B0C3C30}.Development|Default.ActiveCfg = Development
+		{F23629F4-906D-D558-32E3-E25B9B0C3C30}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB0EE0CD-86E8-4233-91B3-D5F2134A7151}
+	EndGlobalSection
+EndGlobal
